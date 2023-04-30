@@ -1,0 +1,6 @@
+require_relative "html_table_dsl/sentry"
+require_relative "html_table_dsl/tag"
+require_relative "html_table_dsl/tr"
+require_relative "html_table_dsl/style"
+require_relative "html_table_dsl/css"
+require_relative "html_table_dsl/dsl"
